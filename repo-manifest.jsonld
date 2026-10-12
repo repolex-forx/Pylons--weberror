@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Pylons/weberror/commit/8963e48ca7b1f803039b8dba1dea687dcefb0950",
       "git:hexsha": "8963e48ca7b1f803039b8dba1dea687dcefb0950",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T05:25:55.456966+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Pylons/weberror/commit/8c601229935b51f8df44543709f41d51266a2c0a",
